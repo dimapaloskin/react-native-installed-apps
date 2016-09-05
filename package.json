@@ -1,5 +1,19 @@
 {
   "name": "react-native-installed-apps",
   "version": "0.0.4",
-  "keywords": "react-native"
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "ios",
+    "installed",
+    "applications",
+    "apps"
+  ],
+  "repository": "dimapaloskin/react-native-installed-apps",
+  "author": {
+    "name": "Dmitry Pavlovsky",
+    "email": "dima@paloskin.me",
+    "url": "http://paloskin.me"
+  },
+  "license": "MIT"
 }
