@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/react-native-installed-apps.png)](http://badge.fury.io/js/react-native-installed-apps)
 
-[React Native](https://github.com/facebook/react-native) module which provides list of installed IOS application.
+[React Native](https://github.com/facebook/react-native) module which provides list of installed IOS applications.
 
 
 ## Install
